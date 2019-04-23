@@ -1,0 +1,18 @@
+{
+  "name": "botclient",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node botclient.js",
+    "dev": "nodemon botclient.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "botgram": "^2.2.0",
+    "nodemon": "^1.18.11"
+  }
+}

@@ -1,0 +1,10 @@
+{
+    "development":{
+        "bot_token": "",
+        "url_places": "https://tacs-tp-2019c1.herokuapp.com/places"
+    },
+    "production":{
+        "bot_token": "",
+        "url_places": ""
+    }
+}
