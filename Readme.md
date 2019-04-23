@@ -13,7 +13,7 @@ Setting Up
   
 Descargar el proyecto:   
   
-`git clone https://github.com/mmiguenz/tacs-tp-2019c1-bot-telegram-client.git
+`git clone https://github.com/mmiguenz/tacs-tp-2019c1-bot-telegram-client.git`
   
  **Iniciar aplicacion**   
   
